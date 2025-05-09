@@ -9,3 +9,4 @@
 /copy - copies the file to the specified directory
 /move - moves the file to the specified directory
 /process - prints all processes to the console pc
+/chdir - enter the directory
