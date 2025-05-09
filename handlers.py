@@ -12,7 +12,7 @@ import json
 
 router = Router()
 
-ADMIN_ID = 1000000 #Поменяйте на ваш telegram id
+ADMIN_ID = 1000000 #change to your telegram id
 
 class Mkdir(StatesGroup):
     name = State()
