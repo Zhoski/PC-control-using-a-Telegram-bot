@@ -5,9 +5,9 @@ all commands
 /mkdir - create a folder in the current directory
 /remove - delete file/foldern
 /into - move to the specified directoryn 
-/up - go up the directory aboven\n'
+/up - go up the directory aboven
 /viewdir - show all files in the current directory
-/mkwrite - write data to a file\n'
+/mkwrite - write data to a file
 /mkfile - create a file in the current directory
 /copy - copies the file to the specified directory
 /move - moves the file to the specified directory
